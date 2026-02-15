@@ -52,8 +52,8 @@ export const Projects = () => {
   ],
   technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB Atlas",
   imgUrl: projImg3,
-  liveLink: "https://sparkling-piroshki-b49c2e.netlify.app/",  // 👈 Replace with your real deployed link
-  githubLink: "https://github.com/Sonu1987abcd",
+  liveLink: "https://personal-portfolio-p32k.onrender.com/",  // 👈 Replace with your real deployed link
+  githubLink: "https://github.com/Sonu1987abcd/personal-portfolio",
 },
 
   ];
