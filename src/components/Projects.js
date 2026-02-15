@@ -52,7 +52,7 @@ export const Projects = () => {
   ],
   technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB Atlas",
   imgUrl: projImg3,
-  liveLink: "https://personal-portfolio-p32k.onrender.com/",  // 👈 Replace with your real deployed link
+  liveLink: "https://personal-portfolio-6qnb.onrender.com/",  // 👈 Replace with your real deployed link
   githubLink: "https://github.com/Sonu1987abcd/personal-portfolio",
 },
 
