@@ -11,9 +11,9 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Wanderlust – Travel Listing Platform",
+      title: "Bookify - Accommodation Platform",
       description:
-        "A full-stack travel listing web application where users can explore destinations, create listings, and manage bookings. Implemented secure authentication, CRUD operations, and dynamic routing.",
+        "A full-stack travel listing web application where users can explore destinations, and manage bookings. Implemented secure authentication, CRUD operations, and dynamic routing.",
       features: [
         "User Authentication & Authorization",
         "Create, Edit, Delete Listings (CRUD)",
@@ -22,7 +22,7 @@ export const Projects = () => {
       ],
       technologies: "Node.js, Express.js, MongoDB, EJS, CSS, HTML, Bootstrap",
       imgUrl: projImg2,
-      liveLink: "https://wanderlust-project-7b25.onrender.com/listings",
+      liveLink: "https://wanderlust-project-p95t.onrender.com/listings",
       githubLink: "https://github.com/Sonu1987abcd/WanderLust-project",
     },
     {
@@ -35,9 +35,9 @@ export const Projects = () => {
         "City-based Weather Search",
         "Responsive & Clean Interface"
       ],
-      technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB Atlas",
+      technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB",
       imgUrl: projImg1,
-      liveLink: "https://wonderland-weather-app-1.onrender.com",
+      liveLink: "https://wonderland-weather-app1.onrender.com/",
       githubLink: "https://github.com/Sonu1987abcd/Wonderland-Weather-App",
     },
    {
@@ -50,9 +50,9 @@ export const Projects = () => {
     "Project Showcase with Live & GitHub Links",
     "Resume View & Download Feature"
   ],
-  technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB Atlas",
+  technologies: "React.js, REST API, JavaScript, CSS, HTML, Bootstrap, Node.js, Express.js, MongoDB",
   imgUrl: projImg3,
-  liveLink: "https://personal-portfolio-6qnb.onrender.com/",  // 👈 Replace with your real deployed link
+ // // liveLink: "https://personal-portfolio-6qnb.onrender.com/",  // 👈 Replace with your real deployed link
   githubLink: "https://github.com/Sonu1987abcd/personal-portfolio",
 },
 

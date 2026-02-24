@@ -48,5 +48,5 @@ router.post("/contact", (req, res) => {
     } else {
       res.json({ code: 200, status: "Message Sent" });
     }
-  });
+  }); 
 });

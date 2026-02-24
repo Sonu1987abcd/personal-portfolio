@@ -82,10 +82,10 @@ export const Skills = () => {
 
               <div className="row text-center">
                 <div className="col-md-3 col-6 mb-4">
-                  <h5>Communication</h5>
+                  <h5>Adaptability</h5>
                 </div>
                 <div className="col-md-3 col-6 mb-4">
-                  <h5>Teamwork</h5>
+                  <h5>Team Player</h5>
                 </div>
                 <div className="col-md-3 col-6 mb-4">
                   <h5>Problem Solving</h5>

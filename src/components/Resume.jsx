@@ -45,12 +45,12 @@ export const Resume = () => {
     },
   ];
 
-  const resumeUrl = process.env.PUBLIC_URL + "/resume.pdf";
+  const resumeUrl = process.env.PUBLIC_URL + "/cv.pdf";
 
   const handleDownloadResume = () => {
     const link = document.createElement("a");
     link.href = resumeUrl;
-    link.download = "Sonu_Kumar_Singh_Resume.pdf";
+    link.download = "Sonu_Kumar_Singh_CV.pdf";
     link.click();
   };
 
@@ -80,14 +80,14 @@ export const Resume = () => {
                       className="resume-download-btn"
                       onClick={handleViewResume}
                     >
-                      <Eye size={22} /> View Resume
+                      <Eye size={22} /> View CV
                     </button>
 
                     <button
                       className="resume-download-btn"
                       onClick={handleDownloadResume}
                     >
-                      <FileEarmarkText size={22} /> Download Resume
+                      <FileEarmarkText size={22} /> Download CV
                     </button>
 
                   </div>
